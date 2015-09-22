@@ -34,7 +34,7 @@
 // https://github.com/edenspiekermann/minwidth-relocate
 //= require relocate
 //= require minwidth
-
+//= require chosen.jquery.min.js
 //= require infobubble
 //= require sharetribe_common
 //= require Bacon
@@ -56,6 +56,7 @@
 //= require admin/listing_shapes
 //= require admin/settings.js
 //= require admin/emails.js
+//= require admin/category_search.js
 //= require payment_math
 //= require dropdown
 //= require jquery.nouislider

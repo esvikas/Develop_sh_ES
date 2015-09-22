@@ -1,0 +1,19 @@
+#search-category{
+    margin-bottom: 10px;
+}
+
+#category-list{
+    padding-left: 10px;
+}
+
+
+.chosen-search input{
+    min-height: auto;
+}
+#category_list{
+    width: 232px;
+    margin-bottom: 15px;
+}
+.chosen-container-single{
+    margin-bottom: 15px;
+}

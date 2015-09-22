@@ -20,6 +20,8 @@ gem 'compass-rails'
 
 gem 'jquery-rails', '2.1.4'
 
+gem "font-awesome-rails"
+
 # Bundle the extra gems:
 
 # gem 'heroku' install the Heroku toolbelt (https://toolbelt.heroku.com/) instead (as gem had some problems)
