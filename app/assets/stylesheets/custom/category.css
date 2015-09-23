@@ -8,11 +8,13 @@
 
 
 .chosen-search input{
-    min-height: auto;
+    min-height: 10px;
 }
-#category_list{
-    width: 232px;
+
+#category_list {
+    width: 100px !important;
     margin-bottom: 15px;
+
 }
 .chosen-container-single{
     margin-bottom: 15px;
